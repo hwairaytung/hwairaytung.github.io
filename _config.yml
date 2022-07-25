@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Hwai-Ray Tung
 description: Website work in progress
 
-CV = "https://hwairaytung.github.io/cv.html"
+CV: "https://hwairaytung.github.io/cv.html"
