@@ -4,7 +4,7 @@ description: Mathematical Biologist, Webpage Work in Progress
 
 sidebar:
   - name: CV
-    icon: <img src="/static/adobe_32.png" title="pdf symbol">
+    icon: <img src="/static/Adobe_32.png" title="pdf symbol">
     link: https://hwairaytung.github.io/cv.html
 #   - name: GitHub
 #     icon: <i class="fa-brands fa-github"></i>
