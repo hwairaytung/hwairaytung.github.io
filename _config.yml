@@ -7,11 +7,9 @@ sidebar:
     icon: <img src="/static/Adobe_32.png" title="pdf symbol">
     link: https://hwairaytung.github.io/cv.html
   - name: Research Statement
-    link: https://hwairaytung.github.io/
+    link: https://hwairaytung.github.io/research.html
   - name: Teaching Statement
-    link: https://hwairaytung.github.io/
-  - name: ORCiD
-    link: https://orcid.org/my-orcid?orcid=0000-0002-5523-4264
+    link: https://hwairaytung.github.io/teaching.html
 #   - name: GitHub
 #     icon: <i class="fa-brands fa-github"></i>
 #     link: https://github.com/BDHU
