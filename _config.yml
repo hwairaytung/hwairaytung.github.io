@@ -1,7 +1,6 @@
 remote_theme: BDHU/minimalist
 title: Hwai-Ray Tung
-description: Mathematical Biologist, Webpage Work in Progress
-
+description: Mathematical Biologist
 sidebar:
   - name: CV
     icon: <img src="/static/Adobe_32.png" title="pdf symbol">
