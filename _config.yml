@@ -3,7 +3,7 @@ title: Hwai-Ray Tung
 description: hwairay.tung [at] duke.edu<img src="/static/linkedin_pic.jpg" title="Hwai-Ray Tung">
 sidebar:
   - name: CV
-    icon: <img src="/static/Adobe_32.png" title="pdf symbol">
+    #icon: <img src="/static/Adobe_32.png" title="pdf symbol">
     link: https://hwairaytung.github.io/cv.html
   - name: Publications
     link: https://hwairaytung.github.io/research.html
