@@ -1,7 +1,7 @@
 ## Teaching
 
 Utah:
-Fall 2023 - MATH2270
+Linear Algebra - MATH2270 - Fall 2023 and Spring 2024
 
 Duke:
 single variable calculus 2 
