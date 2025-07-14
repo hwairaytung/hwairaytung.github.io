@@ -4,9 +4,9 @@ I am currently a postdoc at the University of Utah math department working mostl
 
 **Upcoming travel:**
 
-SIAM Dynamical Systems - May - Denver
-
 SMB 2025 - July - Edmonton
+
+NITMB Convergence Conference - August - Chicago
 
 
 [comment]: <> **Bold** and _Italic_ and `Code` text
