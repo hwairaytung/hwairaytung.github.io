@@ -4,9 +4,9 @@ I am currently a postdoc at the University of Utah math department working mostl
 
 **Upcoming travel:**
 
-SMB 2025 - July - Edmonton
+NITMB Convergence Conference - August 2025 - Chicago
 
-NITMB Convergence Conference - August - Chicago
+JMM - January 2026 - Washington DC
 
 
 [comment]: <> **Bold** and _Italic_ and `Code` text
