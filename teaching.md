@@ -6,7 +6,7 @@ Undergrad Real Analysis part II - MATH3220 - Spring 2025
 
 Business Algebra - MATH1090 - Fall 2024
 
-Linear Algebra - MATH2270 - Fall 2023 and Spring 2024
+Linear Algebra - MATH2270 - Fall 2023, Spring 2024, Fall 2025
 
 **Duke:**
 
