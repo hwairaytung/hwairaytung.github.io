@@ -8,7 +8,7 @@ NITMB Convergence Conference - August 2025 - Chicago, Illinois
 
 JMM - January 2026 - Washington DC
 
-AMS Western Sectional - March 2026 - Boise, Idaho
+[comment]: AMS Western Sectional - March 2026 - Boise, Idaho
 
 
 [comment]: <> **Bold** and _Italic_ and `Code` text
