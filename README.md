@@ -6,7 +6,7 @@ My name is Ray, and I am a mathematical biologist who uses stochastic processes 
 
 AMS Western Sectional - March 2026 - Boise, ID
 
-NITMB Workshop - June 2026 - Chicago, IL
+NITMB Workshop Extreme Events in Biological Function - June 2026 - Chicago, IL
 
 SIAM Life Sciences - July 2026 - Cleveland, OH
 
