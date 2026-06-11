@@ -1,21 +1,17 @@
-remote_theme: BDHU/minimalistBDHU/minimalist@latest
+remote_theme: BDHU/minimalist@latest
 plugins:
   - jekyll-remote-theme
+
 title: Hwai-Ray Tung
-description: ray [dot] tung [at] princeton.edu#<img src="/static/linkedin_pic.jpg" title="Hwai-Ray Tung">
+description: ray [dot] tung [at] princeton.edu
 logo: /static/linkedin_pic.jpg
+
 sidebar:
   - name: CV
-    #icon: <img src="/static/Adobe_32.png" title="pdf symbol">
-    link: https://hwairaytung.github.io/cv.html
+    link: /cv.html
   - name: Publications
-    link: https://hwairaytung.github.io/research.html
+    link: /research.html
   - name: Teaching
-    link: https://hwairaytung.github.io/teaching.html
-#   - name: GitHub
-#     icon: <i class="fa-brands fa-github"></i>
-#     link: https://github.com/BDHU
-#icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5L12 0l12 9.5l-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14a7 7 0 0 0 0-14z" fill="currentColor"/></svg>
+    link: /teaching.html
 
-# Google Analytics
 google_analytics: G-YY26VSQ1FG
