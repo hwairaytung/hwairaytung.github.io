@@ -1,4 +1,6 @@
-remote_theme: BDHU/minimalist
+remote_theme: BDHU/minimalistBDHU/minimalist@latest
+plugins:
+  - jekyll-remote-theme
 title: Hwai-Ray Tung
 description: ray [dot] tung [at] princeton.edu<img src="/static/linkedin_pic.jpg" title="Hwai-Ray Tung">
 sidebar:
