@@ -1,4 +1,4 @@
-## Curriculum Vitae (updated October 2025)
+## Curriculum Vitae (updated June 2026)
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
   <iframe 
