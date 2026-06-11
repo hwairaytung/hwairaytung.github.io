@@ -2,7 +2,7 @@ remote_theme: BDHU/minimalist@f19d6a6ef015ba93c5aee9ce80339e4959b0ffa7
 plugins:
   - jekyll-remote-theme
 title: Hwai-Ray Tung
-description: ray [dot] tung [at] princeton.edu#<img src="/static/linkedin_pic.jpg" title="Hwai-Ray Tung">
+description: ray [dot] tung [at] princeton.edu <img src="/static/linkedin_pic.jpg" title="Hwai-Ray Tung">
 
 sidebar:
   - name: CV
