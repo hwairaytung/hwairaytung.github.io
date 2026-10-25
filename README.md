@@ -4,7 +4,7 @@ My name is Ray, and I am a mathematical biologist who uses stochastic processes 
 
 **Upcoming travel/talks:**
 
-SIAM Life Sciences - July 2026 - Cleveland, OH
+ICMA X - October 2026 - College Park, MD
 
 [comment]: <> **Bold** and _Italic_ and `Code` text
 
